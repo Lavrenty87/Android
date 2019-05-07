@@ -761,6 +761,9 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id show_city_name
+id show_city_weather
+id show_switchCompat_date
 id spacer
 id split_action_bar
 id spread
@@ -772,6 +775,9 @@ id standard
 id start
 id submenuarrow
 id submit_area
+id switch_damp
+id switch_pressure
+id switch_wind
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -792,6 +798,7 @@ id useLogo
 id withText
 id wrap
 id wrap_content
+id write_city_name
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer cancel_button_image_alpha
@@ -825,6 +832,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_city_weather
 layout activity_main
 layout notification_action
 layout notification_action_tombstone
@@ -878,9 +886,13 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string damp
+string find
+string pressure
 string search_menu_title
 string status_bar_notification_info_overflow
 string weather
+string wind
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

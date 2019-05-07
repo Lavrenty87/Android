@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\Weather.git\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr\\values-sr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Лаврентий\\.gradle\\caches\\transforms-2\\files-2.1\\ad60681ff1175d25b31b6344feb15c5e\\res\\values-sr\\values-sr.xml",

@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">Погода</string>
     <string name="weather">Погода</string>
+    <string name="find">Найти</string>
+    <string name="damp">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Ветер</string>
 </resources>

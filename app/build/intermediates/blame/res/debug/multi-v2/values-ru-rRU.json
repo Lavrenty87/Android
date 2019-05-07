@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\Weather.git\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
             "map": [
                 {
-                    "source": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "source": "D:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\Weather.git\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,102",
-                        "endColumns": "43,42",
-                        "endOffsets": "96,140"
+                        "startLines": "-1,5,4,6,-1,7",
+                        "startColumns": "-1,4,4,4,-1,4",
+                        "startOffsets": "-1,186,146,230,-1,277",
+                        "endColumns": "-1,42,38,45,-1,38",
+                        "endOffsets": "-1,224,180,271,-1,311"
                     },
                     "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,99",
-                        "endColumns": "43,42",
-                        "endOffsets": "94,137"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,99,142,181,227,270",
+                        "endColumns": "43,42,38,45,42,38",
+                        "endOffsets": "94,137,176,222,265,304"
                     }
                 }
             ]

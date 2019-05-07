@@ -1,4 +1,4 @@
-#Sun May 05 20:30:17 MSK 2019
-base.0=D\:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Tue May 07 15:57:49 MSK 2019
+base.0=D\:\\AndroidStudioProjects\\GeekBrains\\HomeWork\\Wether\\Weather.git\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="MainActivity">
+    tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -14,5 +14,51 @@
         android:text="@string/weather"
         android:textColor="@color/colorBlue"
         android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/write_city_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/colorBlue"
+        android:textSize="25sp"/>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switch_wind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp"
+        android:textColor="@color/colorBlue"
+        android:text="@string/wind"/>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switch_pressure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="25sp"
+        android:textColor="@color/colorBlue"
+        android:text="@string/pressure"/>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switch_damp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="25sp"
+        android:textColor="@color/colorBlue"
+        android:text="@string/damp"/>
+
+    <Button
+        android:id="@+id/show_city_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25sp"
+        android:textColor="@color/colorBlue"
+        android:onClick="onClickButtonShowCityWeather"
+        android:text="@string/find"/>
 
 </LinearLayout>

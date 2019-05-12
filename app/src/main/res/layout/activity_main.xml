@@ -12,24 +12,21 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="15dp"
         android:text="@string/weather"
-        android:textColor="@color/colorBlue"
-        android:textSize="30sp" />
+        style="@style/TextViewTitleStyle" />
 
     <EditText
         android:id="@+id/write_city_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:textColor="@color/colorBlue"
-        android:textSize="25sp"/>
+        style="@style/TextViewStyle" />
 
     <android.support.v7.widget.SwitchCompat
         android:id="@+id/switch_wind"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:textSize="25sp"
-        android:textColor="@color/colorBlue"
+        style="@style/TextViewStyle"
         android:text="@string/wind"/>
 
     <android.support.v7.widget.SwitchCompat
@@ -37,8 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:textSize="25sp"
-        android:textColor="@color/colorBlue"
+        style="@style/TextViewStyle"
         android:text="@string/pressure"/>
 
     <android.support.v7.widget.SwitchCompat
@@ -46,8 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:textSize="25sp"
-        android:textColor="@color/colorBlue"
+        style="@style/TextViewStyle"
         android:text="@string/damp"/>
 
     <Button
@@ -56,8 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_gravity="center_horizontal"
-        android:textSize="25sp"
-        android:textColor="@color/colorBlue"
+        style="@style/TextViewStyle"
         android:onClick="onClickButtonShowCityWeather"
         android:text="@string/find"/>
 

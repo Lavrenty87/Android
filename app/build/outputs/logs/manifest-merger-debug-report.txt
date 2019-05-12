@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\1b99464c43ff4402c54629ab5aa98044\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\78783ee284a42ecd8f619394c33bdffc\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\9db82fc188a119f3d2fc258f46914b05\AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Лаврентий\.gradle\c
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\a95fd8e700bec1e03560909766e88c2c\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\9ba488adfe991ef76aacb3d697942e35\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\83df31f4525b4e47b488e39907c15155\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\78783ee284a42ecd8f619394c33bdffc\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\78783ee284a42ecd8f619394c33bdffc\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Лаврентий\.gradle\caches\transforms-2\files-2.1\ad60681ff1175d25b31b6344feb15c5e\AndroidManifest.xml:22:5-94
@@ -75,19 +75,23 @@ ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\s
 	android:name
 		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:12:19-54
 activity#com.lavr.wether.MainActivity
-ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:13:9-20:20
 	android:name
 		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:13:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:14:13-18:29
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:14:13-19:29
 action#android.intent.action.MAIN
 ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
 		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:15:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:17:17-77
+action#android.intent.action.VIEW
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\AndroidManifest.xml

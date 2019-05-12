@@ -2673,6 +2673,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="TextViewStyle">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/colorBlue</item>
+    </style><style name="TextViewTitleStyle" parent="TextViewStyle">
+        <item name="android:textSize">30sp</item>
     </style></file><file path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\res\values-ru-rRU\strings.xml" qualifiers="ru-rRU"><string name="app_name">Погода</string><string name="weather">Погода</string><string name="damp">Влажность</string><string name="wind">Ветер</string><string name="pressure">Давление</string><string name="find">Найти</string></file><file name="activity_city_weather" path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\main\res\layout\activity_city_weather.xml" qualifiers="" type="layout"/></source><source path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\build\generated\res\rs\debug"/><source path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidStudioProjects\GeekBrains\HomeWork\Wether\Weather.git\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
